@@ -25,6 +25,7 @@ header {
     box-shadow: inset 0 0 20px 10px black;
     height: 70px;
     font-size: 23px;
+    width: 1550px;
 }
 
 .o-hobby{
@@ -109,6 +110,7 @@ footer{
     font-family: quicksand;
     position: absolute;
     top:680px;
+    width: 1550px;
 }
 
 footer p {
